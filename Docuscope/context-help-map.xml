@@ -3,7 +3,7 @@
    <appContext helpID="welcometodocuscope" path="welcometodocuscope.html"/>
    <appContext helpID="aboutdocuscope" path="aboutdocuscope.html"/>
    <appContext helpID="r_docuscopeelements" path="r_docuscopeelements.html"/>
-   <appContext helpID="" path="docuscopedefinitions.html"/>
+   <appContext helpID="docuscopedefinitions" path="docuscopedefinitions.html"/>
    <appContext helpID="textanalysis" path="textanalysis.html"/>
    <appContext helpID="c_clustersdimensionslats" path="c_clustersdimensionslats.html"/>
    <appContext helpID="c_categories" path="c_categories.html"/>
