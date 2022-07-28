@@ -9,7 +9,6 @@
    <appContext helpID="c_categories" path="c_categories.html"/>
    <appContext helpID="c_dimensions" path="c_dimensions.html"/>
    <appContext helpID="c_language_action_types" path="c_language_action_types.html"/>
-   <appContext helpID="t_analyzeasingletext" path="t_analyzeasingletext.html"/>
    <appContext helpID="t_loadadictionary" path="t_loadadictionary.html"/>
    <appContext helpID="t_loadatext" path="t_loadatext.html"/>
    <appContext helpID="t_loadasingletext" path="t_loadasingletext.html"/>
