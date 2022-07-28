@@ -20,6 +20,5 @@
    <appContext helpID="comment_on_a_card" path="Trello/comment_on_a_card.html"/>
    <appContext helpID="cardsandlists" path="Trello/cardsandlists.html"/>
    <appContext helpID="move_a_card" path="Trello/move_a_card.html"/>
-   <appContext helpID="move_a_card" path="Trello/move_a_card_mobile.html"/>
    <appContext helpID="archive_a_card" path="Trello/archive_a_card.html"/>
 </map>

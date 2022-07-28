@@ -3,7 +3,7 @@
    <topic href="Trello/what_is_trello.html" data-id="what_is_trello">
       <title>Welcome to Trello</title>
       <shortdesc>
-         <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">Trello is a web-based <a class="xref" href="Trello/kanban.html">Trello/kanban.html</a> board that helps users organize         their projects.
+         <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc"><a class="xref" href="Trello/https://trello.com/en" target="_blank">Trello</a> is a         web-based <a class="xref" href="Trello/kanban.html">Trello/kanban.html</a> board that helps users organize projects.
          </p>
       </shortdesc>
       <topicmeta></topicmeta>
@@ -18,8 +18,8 @@
    <topic href="Trello/create_a_board.html" data-id="create_a_board">
       <title>Create Your Board</title>
       <shortdesc>
-         <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">After signing up, a set-up wizard guides you through creating your Trello        
-            board.
+         <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">After signing up for Trello, create your Trello board by completing the set-up   
+            wizard.
          </p>
       </shortdesc>
       <topicmeta></topicmeta>
@@ -33,7 +33,7 @@
          <topicmeta></topicmeta>
       </topic>
       <topic href="Trello/create_a_list.html" data-id="create_a_list">
-         <title>Create and Name Lists</title>
+         <title>Create a List</title>
          <shortdesc>
             <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">Lists are the categories that you assign your cards and tasks.</p>
          </shortdesc>
@@ -50,18 +50,18 @@
    <topic href="Trello/add_details_to_a_card.html" data-id="add_details_to_a_card">
       <title>Card Details</title>
       <shortdesc>
-         <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">Cards hold a number of details that help you organize your information.</p>
+         <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">Cards contain a number of details that help organize information.</p>
       </shortdesc>
       <topicmeta></topicmeta>
       <topic href="Trello/card_properties.html" data-id="card_properties">
          <title>Card Properties</title>
          <shortdesc>
-            <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">Cards hold a number of properties that help you organize information.</p>
+            <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">Cards contain a number of properties that help you organize information.</p>
          </shortdesc>
          <topicmeta></topicmeta>
       </topic>
       <topic href="Trello/describe_your_card.html" data-id="describe_your_card">
-         <title>Describe Your Card</title>
+         <title>Describe a Card</title>
          <shortdesc>
             <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">Keep your team on target by providing a summary of your task.</p>
          </shortdesc>
@@ -70,14 +70,14 @@
       <topic href="Trello/assign_a_due_date.html" data-id="assign_a_due_date">
          <title>Assign a Due Date</title>
          <shortdesc>
-            <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">Add a date to a card to mark when to complete a task.</p>
+            <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">Add a due date to a card to indicate a deadline for the task.</p>
          </shortdesc>
          <topicmeta></topicmeta>
       </topic>
       <topic href="Trello/attach_files_to_a_card.html" data-id="attach_files_to_a_card">
          <title>Attach Files to a Card</title>
          <shortdesc>
-            <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">Use Trello to keep track of important files and share them to others.</p>
+            <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">Use Trello to keep track of important files and share them with others.</p>
          </shortdesc>
          <topicmeta></topicmeta>
       </topic>
@@ -91,13 +91,13 @@
       <topic href="Trello/create_a_checklist.html" data-id="create_a_checklist">
          <title>Create a Checklist</title>
          <shortdesc>
-            <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">A <dfn class="term">checklist</dfn> helps visualize a larger task into its components and         substeps. 
+            <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">A <dfn class="term">checklist</dfn> helps break a larger task into its substeps.
             </p>
          </shortdesc>
          <topicmeta></topicmeta>
       </topic>
       <topic href="Trello/update_a_checklist.html" data-id="update_a_checklist">
-         <title>Mark a Checklist Item as Complete</title>
+         <title>Mark a Checklist Item Complete</title>
          <shortdesc>
             <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">Update progress for yourself or other team members.</p>
          </shortdesc>
@@ -105,9 +105,6 @@
       </topic>
       <topic href="Trello/convert_a_checklist_item_to_a_card.html" data-id="convert_a_checklist_item_to_a_card">
          <title>Convert a Checklist Item to a Card</title>
-         <shortdesc>
-            <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">Sometimes a checklist item may need its own card.</p>
-         </shortdesc>
          <topicmeta></topicmeta>
       </topic>
       <topic href="Trello/comment_on_a_card.html" data-id="comment_on_a_card">
@@ -132,18 +129,11 @@
          </shortdesc>
          <topicmeta></topicmeta>
       </topic>
-      <topic href="Trello/move_a_card_mobile.html" data-id="move_a_card">
-         <title>Move a Card Between Lists</title>
-         <shortdesc>
-            <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">Move cards to another list to stay organized.</p>
-         </shortdesc>
-         <topicmeta></topicmeta>
-      </topic>
    </topic>
    <topic href="Trello/archive_a_card.html" data-id="archive_a_card">
       <title>Archive a Card</title>
       <shortdesc>
-         <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">When you are finished with a task, archive it to avoid cluttering your         board.</p>
+         <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">When you are finished with a task, archive it to remove it form the         board.</p>
       </shortdesc>
       <topicmeta></topicmeta>
    </topic>
