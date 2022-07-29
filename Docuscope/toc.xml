@@ -77,11 +77,11 @@
       <topicmeta></topicmeta>
    </topic>
    <topic href="t_loadatext.html" data-id="t_loadatext">
-      <title>Loading a Text</title>
+      <title>Text Loading Options</title>
       <shortdesc>
-         <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">You have three choices in loading files. If you load a single text you can use the
-            visualization tools in the Text View window. If you load multiple texts you will have
-            to         export the results as a CSV file.
+         <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">You have three choices when loading files. If you load a single text you can use the
+            visualization tools in the <span class="keyword wintitle">Text View</span> window. If you load multiple texts         you will have to export the results as
+            a CSV file.
          </p>
       </shortdesc>
       <topicmeta></topicmeta>
