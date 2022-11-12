@@ -1,4 +1,4 @@
-- [Home](home.md)
+- [Home](README.md)
     
 - Sample Projects
 
